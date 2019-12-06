@@ -1,0 +1,44 @@
+.titresite {
+    color: rosybrown;
+    background: black;
+    text-align: center;
+    font-size: 75px;
+}
+
+.ghostbuster {
+    width: 100%;
+    height: auto;
+}
+
+.fortnite {
+    width: 50%;
+    height: auto;
+}
+
+.coupe {
+    width: 40%;
+    height: auto;
+}
+
+* {
+    text-align: center;
+    background: grey;
+    margin: 0px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h2 {
+    margin: 20px 20px 20px 20px;
+}
+.personage_gauche{
+    justify-content: left;
+    width: 60%;
+    margin-top: 10px;
+
+}
+.personnage_droite{
+    display: block;
+    margin-left: 40%;
+    width: 60%;
+    margin-top:10px;
+}
